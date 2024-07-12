@@ -4,7 +4,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/book-management-server.git
+git clone https://github.com/HimanshuSinghRaghav/book-management-server.git
 cd book-management-server
 ```
 
