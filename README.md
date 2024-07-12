@@ -15,12 +15,12 @@ Ensure that your MySQL server is running.
 Create a `.env` file in the root directory and set the following environment variables:
 
 ```makefile
-PORT=<port>
-JWT_SECRET=secretOrPrivateKey
+PORT=8000
+JWT_SECRET=<your_secret_or_private_key>
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=<password>
-DB_NAME=<database name>
+DB_NAME=<db_name>
 ```
 
 ### 4. Install Dependencies
